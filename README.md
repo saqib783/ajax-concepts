@@ -82,7 +82,7 @@ Built with ❤️ by **Saqib Rashid** — a young passionate web developer.
 
 ## 🌐 Social Media
 
-**Instagram:** [https://instagram.com/your_username](https://instagram.com/your_username)
-**X (Twitter):** [https://x.com/your_username](https://x.com/your_username)
+**Instagram:** [https://instagram.com/your_username](https://www.instagram.com/joystickjourney001/)
+**X (Twitter):** [https://x.com/your_username](https://x.com/JoystickJo69547)
 
 
