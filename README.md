@@ -30,7 +30,7 @@ A smooth, auto-changing bakery-themed image slider built using **HTML, CSS, & Ja
 
 ### ⭐ Homepage
 
-![Home Screenshot](ajax-concepts\images\HOMEPAGE.png.png)
+![Home Screenshot](ajax-concepts/HOMEPAGE.png)
 
 ---
 
