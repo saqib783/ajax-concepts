@@ -30,7 +30,7 @@ A smooth, auto-changing bakery-themed image slider built using **HTML, CSS, & Ja
 
 ### ⭐ Homepage
 
-![Home Screenshot](ajax-concepts/images/Screenshot (893).png)
+![Home Screenshot](ajax-concepts\images\HOMEPAGE.png.png)
 
 ---
 
@@ -52,7 +52,7 @@ A smooth, auto-changing bakery-themed image slider built using **HTML, CSS, & Ja
 1. Download or Clone the repository
 
 ```
-git clone https://github.com/your-username/bakery-slider.git
+git clonehttps://github.com/saqib783/ajax-concepts.git
 ```
 
 2. Open the project folder
